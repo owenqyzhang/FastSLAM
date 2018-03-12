@@ -38,6 +38,6 @@ public:
     void setPf(vector<MatrixXf> &Pf);
     void setPfi(unsigned long i, MatrixXf &m);
     void setDa(double *da);
-}
+};
 
 #endif
